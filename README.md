@@ -1,3 +1,9 @@
+#### To run (in terminal):
+- npm start
+
+#### To stop:
+- Control + c
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
