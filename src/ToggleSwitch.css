@@ -1,0 +1,50 @@
+.Clicker-light {
+    background-color: rgb(255, 255, 255);
+    height: 25px;
+    width: 180px;
+    margin: auto;
+    padding: 10px;
+    border: solid rgb(146, 146, 146) 1px;
+}
+
+.Clicker-dark {
+    background-color: rgb(153, 153, 153);
+    height: 25px;
+    width: 180px;
+    margin: auto;
+    padding: 10px;
+    border: solid rgb(146, 146, 146) 1px;
+}
+.Clicker-dark button {
+    cursor: pointer;
+    background-color: white; 
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin-right: 12px;
+    margin-top: -10px;
+}
+.Clicker-light button {
+    cursor: pointer;
+    background-color: white;
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    margin-left: 12px;
+    margin-top: -10px;
+
+}
+
+.toggle {
+    background-color: rgb(181, 181, 181);
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+    margin: auto;
+    /* margin-top: 4px; */
+}
+/* 
+h1 {
+    margin-left: -325px;
+    font-size: 20px;
+} */

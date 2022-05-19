@@ -1,0 +1,42 @@
+.Check-light {
+    background-color: white;
+    height: 30px;
+    width: 180px;
+    margin: auto;
+    padding: 10px;
+    border: solid rgb(146, 146, 146) 1px;
+}
+
+.Check-dark {
+    background-color: #0095ff;
+    height: 25px;
+    width: 180px;
+    margin: auto;
+    padding: 10px;
+    border: solid rgb(146, 146, 146) 1px;
+}
+.Check-dark button {
+    cursor: pointer;
+    background-color: #0095ff;
+    width: 20px;
+    height: 20px;
+    border-radius: 20%;
+    border: none;
+}
+.Check-light button {
+    margin-top: -200px;
+    cursor: pointer;
+    background-color: #0095ff;
+    width: 20px;
+    height: 20px;
+    border-radius: 20%;
+    border: none;
+}
+
+h1 {
+    margin-left: -325px;
+    margin-top: 1px;
+    margin-bottom: -20px;
+    font-size: 20px;
+}
+

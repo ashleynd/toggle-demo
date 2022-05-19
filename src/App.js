@@ -1,11 +1,13 @@
 import React from "react";
-import MoodClicker from './Moodclicker';
+import ToggleSwitch from './ToggleSwitch';
+import CheckBox from './CheckBox';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <MoodClicker />
+      <ToggleSwitch />
+      <CheckBox />
       </div>
   );
 }
